@@ -1,0 +1,7 @@
+#include<stdio.h>
+int xyz=10;
+int main(){
+int xyz=20;
+printf("%d",xyz);
+return 0;
+}
